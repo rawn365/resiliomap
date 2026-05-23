@@ -1,0 +1,8 @@
+.streamlit/
+venv/
+__pycache__/
+*.pyc
+
+data/bioclim/
+data/bioclim_backup/
+data/models/

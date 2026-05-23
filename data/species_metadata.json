@@ -1,0 +1,4458 @@
+{
+  "Bubalus mindorensis": {
+    "common": "Tamaraw",
+    "class": "Mammalia"
+  },
+  "Cervus alfredi": {
+    "common": "Visayan Spotted Deer",
+    "class": "Mammalia"
+  },
+  "Dugong dugon": {
+    "common": "Dugong",
+    "class": "Mammalia"
+  },
+  "Crateromys australis": {
+    "common": "Dinagat Hairy-Tailed Cloud Rat",
+    "class": "Mammalia"
+  },
+  "Acerodon jubatus": {
+    "common": "Golden-Crowned Fruit Bat",
+    "class": "Mammalia"
+  },
+  "Dobsonia chapmani": {
+    "common": "Philippine Bare-Backed Fruit Bat",
+    "class": "Mammalia"
+  },
+  "Sus cebifrons": {
+    "common": "Visayan Warty Pig",
+    "class": "Mammalia"
+  },
+  "Pithecophaga jefferyi": {
+    "common": "Philippine Eagle",
+    "class": "Aves"
+  },
+  "Acrocephalus sorghophilus": {
+    "common": "Speckled Reed Warbler",
+    "class": "Aves"
+  },
+  "Ceyx cyanopectus": {
+    "common": "Indigo-Banded Kingfisher",
+    "class": "Aves"
+  },
+  "Anthracoceros montani": {
+    "common": "Sulu Hornbill",
+    "class": "Aves"
+  },
+  "Rhabdotorrhinus waldeni": {
+    "common": "Walden'S Hornbill",
+    "class": "Aves"
+  },
+  "Chloropsis flavipennis": {
+    "common": "Philippine Leafbird",
+    "class": "Aves"
+  },
+  "Gallicolumba platenae": {
+    "common": "Mindoro Bleeding-Heart",
+    "class": "Aves"
+  },
+  "Centropus steerii": {
+    "common": "Black-Hooded Coucal",
+    "class": "Aves"
+  },
+  "Esacus magnirostris": {
+    "common": "Beach Stone-Curlew",
+    "class": "Aves"
+  },
+  "Streptopelia bitorquata": {
+    "common": "Island Collared Dove",
+    "class": "Aves"
+  },
+  "Caloenas nicobarica": {
+    "common": "Nicobar Pigeon",
+    "class": "Aves"
+  },
+  "Ducula pickeringii": {
+    "common": "Grey Imperial Pigeon",
+    "class": "Aves"
+  },
+  "Vauriella albigularis": {
+    "common": "White-Throated Jungle Flycatcher",
+    "class": "Aves"
+  },
+  "Gallirallus calayanensis": {
+    "common": "Calayan Rail",
+    "class": "Aves"
+  },
+  "Bubo philippensis": {
+    "common": "Philippine Eagle-Owl",
+    "class": "Aves"
+  },
+  "Platalea minor": {
+    "common": "Black-Faced Spoonbill",
+    "class": "Aves"
+  },
+  "Lepidochelys olivacea": {
+    "common": "Olive Ridley Turtle",
+    "class": "Reptilia"
+  },
+  "Platymantis (Lupacolus) spelaeus": {
+    "common": "Negros Limestone Frog",
+    "class": "Amphibia"
+  },
+  "Podogymnura aureospinula": {
+    "common": "Dinagat Gymnure",
+    "class": "Mammalia"
+  },
+  "Chaerephon plicatus": {
+    "common": "Wrinkle-Lipped Bat",
+    "class": "Mammalia"
+  },
+  "Crateromys schadenbergi": {
+    "common": "Bushy Tailed-Cloud Rat",
+    "class": "Mammalia"
+  },
+  "Eonycteris robusta": {
+    "common": "Philippine Dawn Bat",
+    "class": "Mammalia"
+  },
+  "Tragulus nigricans": {
+    "common": "Balabac Mouse Deer",
+    "class": "Mammalia"
+  },
+  "Nisaetus philippensis": {
+    "common": "Philippine Hawk-Eagle",
+    "class": "Aves"
+  },
+  "Otus nigrorum": {
+    "common": "Negros Scops Owl",
+    "class": "Aves"
+  },
+  "Ichthyophis weberi": {
+    "common": "Palawan Caecilian",
+    "class": "Amphibia"
+  },
+  "Drepanosticta acuta": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Panesthia ornata": {
+    "common": "Ornate Wood-Feeding Cockroach",
+    "class": "Insecta"
+  },
+  "Cereopsius quaestor": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Gnapholoryx opacus": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Aythya baeri": {
+    "common": "Baer'S Pochard",
+    "class": "Aves"
+  },
+  "Penelopides panini": {
+    "common": "Visayan Hornbill",
+    "class": "Aves"
+  },
+  "Cacatua haematuropygia": {
+    "common": "Red-Vented Cockatoo",
+    "class": "Aves"
+  },
+  "Gallicolumba keayi": {
+    "common": "Negros Bleeding-Heart",
+    "class": "Aves"
+  },
+  "Phapitreron amethystinus": {
+    "common": "Amethyst Brown Dove",
+    "class": "Aves"
+  },
+  "Phapitreron cinereiceps": {
+    "common": "Tawi-Tawi Brown Dove",
+    "class": "Aves"
+  },
+  "Ptilinopus arcanus": {
+    "common": "Negros Fruit Dove",
+    "class": "Aves"
+  },
+  "Ducula poliocephala": {
+    "common": "Pink-Bellied Imperial Pigeon",
+    "class": "Aves"
+  },
+  "Dicaeum quadricolor": {
+    "common": "Cebu Flowerpecker",
+    "class": "Aves"
+  },
+  "Dicrurus menagei": {
+    "common": "Tablas Drongo",
+    "class": "Aves"
+  },
+  "Fregata andrewsi": {
+    "common": "Christmas Island Frigatebird",
+    "class": "Aves"
+  },
+  "Thalasseus bernsteini": {
+    "common": "Chinese Crested Tern",
+    "class": "Aves"
+  },
+  "Hypothymis coelestis": {
+    "common": "Celestial Monarch",
+    "class": "Aves"
+  },
+  "Oriolus isabellae": {
+    "common": "Isabela Oriole",
+    "class": "Aves"
+  },
+  "Loriculus philippensis": {
+    "common": "Colasisi",
+    "class": "Aves"
+  },
+  "Prioniturus luconensis": {
+    "common": "Green Racket-Tail",
+    "class": "Aves"
+  },
+  "Prioniturus verticalis": {
+    "common": "Blue-Winged Racket-Tail",
+    "class": "Aves"
+  },
+  "Tanygnathus lucionensis": {
+    "common": "Blue-Naped Parrot",
+    "class": "Aves"
+  },
+  "Tanygnathus sumatranus": {
+    "common": "Blue-Backed Parrot",
+    "class": "Aves"
+  },
+  "Hypsipetes siquijorensis": {
+    "common": "Streak-Breasted Bulbul",
+    "class": "Aves"
+  },
+  "Sula dactylatra": {
+    "common": "Masked Booby",
+    "class": "Aves"
+  },
+  "Eretmochelys imbricata": {
+    "common": "Hawksbill Turtle",
+    "class": "Reptilia"
+  },
+  "Crocodylus mindorensis": {
+    "common": "Philippine Crocodile",
+    "class": "Reptilia"
+  },
+  "Crocodylus porosus": {
+    "common": "Indo-Pacific Crocodile/Saltwater Crocodile",
+    "class": "Reptilia"
+  },
+  "Dermochelys coriacea": {
+    "common": "Leatherback Turtle",
+    "class": "Reptilia"
+  },
+  "Varanus mabitang": {
+    "common": "Panay Forest Monitor Lizard",
+    "class": "Reptilia"
+  },
+  "Platymantis insulatus": {
+    "common": "Gigantes Limestone Frog",
+    "class": "Amphibia"
+  },
+  "Rusa marianna": {
+    "common": "Philippine Deer",
+    "class": "Mammalia"
+  },
+  "Manis culionensis": {
+    "common": "Palawan Pangolin",
+    "class": "Mammalia"
+  },
+  "Crateromys heaneyi": {
+    "common": "Panay Bushy-Tailed Cloud Rat",
+    "class": "Mammalia"
+  },
+  "Sus sp. A from the Sulu Archipelago": {
+    "common": "Sulu Warty Pig",
+    "class": "Mammalia"
+  },
+  "Gorsachius goisagi": {
+    "common": "Japanese Night Heron",
+    "class": "Aves"
+  },
+  "Buceros hydrocorax": {
+    "common": "Luzon Rufous Hornbill",
+    "class": "Aves"
+  },
+  "Lewinia mirificus": {
+    "common": "Brown-Banded Rail",
+    "class": "Aves"
+  },
+  "Rhipidura sauli": {
+    "common": "Tablas Fantail",
+    "class": "Aves"
+  },
+  "Numenius madagascariensis": {
+    "common": "Far Eastern Curlew",
+    "class": "Aves"
+  },
+  "Tringa erythropus": {
+    "common": "Spotted Redshank",
+    "class": "Aves"
+  },
+  "Tringa guttifer": {
+    "common": "Nordmann'S Greenshank",
+    "class": "Aves"
+  },
+  "Otus gurneyi": {
+    "common": "Giant Scops Owl",
+    "class": "Aves"
+  },
+  "Ninox rumseyi": {
+    "common": "Cebu Hawk-Owl",
+    "class": "Aves"
+  },
+  "Caretta caretta": {
+    "common": "Loggerhead Turtle",
+    "class": "Reptilia"
+  },
+  "Batomys russatus": {
+    "common": "Dinagat Hairy Tailed Rat",
+    "class": "Mammalia"
+  },
+  "Sarcophanops samarensis": {
+    "common": "Visayan Broadbill",
+    "class": "Aves"
+  },
+  "Copsychus luzoniensis": {
+    "common": "White-Browed Shama",
+    "class": "Aves"
+  },
+  "Apomys iridensis": {
+    "common": "Southern Sierra Madre Shrew-Mouse",
+    "class": "Mammalia"
+  },
+  "Gonocephalus semperi": {
+    "common": "Mindoro Forest Dragon",
+    "class": "Reptilia"
+  },
+  "Rhamphosipyloidea philippa": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Phasmotaenia sanchezi": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Rhabdornis mystacalis (Temminck, 1825)": {
+    "common": "Stripe-headed Rhabdornis",
+    "class": "Aves"
+  },
+  "Penelopides manillae (Boddaert, 1783)": {
+    "common": "Luzon Tarictic Hornbill",
+    "class": "Aves"
+  },
+  "Varanus marmoratus (Wiegmann, 1834)": {
+    "common": "Marbled Water Monitor",
+    "class": "Squamata"
+  },
+  "Hydrosaurus pustulatus (Eschscholtz, 1829)": {
+    "common": "Philippine Sailfin Lizard",
+    "class": "Squamata"
+  },
+  "Actenoides lindsayi (Vigors, 1831)": {
+    "common": "Spotted Wood Kingfisher",
+    "class": "Aves"
+  },
+  "Batrachostomus septimus Tweeddale, 1877": {
+    "common": "Philippine Frogmouth",
+    "class": "Aves"
+  },
+  "Anas luzonica Fraser, 1839": {
+    "common": "Philippine Duck",
+    "class": "Aves"
+  },
+  "Platymantis corrugatus (Duméril, 1853)": {
+    "common": "Corrugated Forest Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis dorsalis (Duméril, 1853)": {
+    "common": "Philippine Forest Frog",
+    "class": "Amphibia"
+  },
+  "Phloeomys pallidus Nehring, 1890": {
+    "common": "Northern Luzon Giant Cloud Rat",
+    "class": "Mammalia"
+  },
+  "Chelonia mydas (Linnaeus, 1758)": {
+    "common": "Green Sea Turtle",
+    "class": "Reptilia"
+  },
+  "Ramphiculus marchei (Oustalet, 1880)": {
+    "common": "Flame-breasted Fruit Dove",
+    "class": "Aves"
+  },
+  "Sanguirana luzonensis (Boulenger, 1896)": {
+    "common": "Luzon Wading Frog",
+    "class": "Amphibia"
+  },
+  "Lanius validirostris Ogilvie-Grant, 1894": {
+    "common": "Mountain Shrike",
+    "class": "Aves"
+  },
+  "Crateromys paulus": {
+    "common": "Ilin Hairy-Tailed Cloudrat",
+    "class": "Mammalia"
+  },
+  "Gallicolumba menagei": {
+    "common": "Sulu Bleeding-Heart",
+    "class": "Aves"
+  },
+  "Grus antigone": {
+    "common": "Sarus Crane",
+    "class": "Aves"
+  },
+  "Eurynorhynchus pygmeus": {
+    "common": "Spoon-Billed Sandpiper ",
+    "class": "Aves"
+  },
+  "Siebenrockiella leytensis": {
+    "common": "Palawan Forest Turtle",
+    "class": "Reptilia"
+  },
+  "Cervus calamianensis": {
+    "common": "Calamian Deer",
+    "class": "Mammalia"
+  },
+  "Nyctimene rabori": {
+    "common": "Philippine Tube-Nosed Fruit Bat",
+    "class": "Mammalia"
+  },
+  "Acerodon leucotis": {
+    "common": "Palawan Flying Fox",
+    "class": "Mammalia"
+  },
+  "Pteropus vampyrus": {
+    "common": "Giant Flying Fox",
+    "class": "Mammalia"
+  },
+  "Sus oliveri": {
+    "common": "Mindoro Warty Pig",
+    "class": "Mammalia"
+  },
+  "Nisaetus pinskeri": {
+    "common": "Pinsker'S Hawk-Eagle",
+    "class": "Aves"
+  },
+  "Penelopides mindorensis": {
+    "common": "Mindoro Hornbill",
+    "class": "Aves"
+  },
+  "Penelopides affinis": {
+    "common": "Mindanao Hornbill",
+    "class": "Aves"
+  },
+  "Ciconia boyciana": {
+    "common": "Oriental Stork",
+    "class": "Aves"
+  },
+  "Ducula mindorensis": {
+    "common": "Mindoro Imperial Pigeon",
+    "class": "Aves"
+  },
+  "Ducula carola": {
+    "common": "Spotted Imperial Pigeon",
+    "class": "Aves"
+  },
+  "Anous minutus": {
+    "common": "Black Noddy",
+    "class": "Aves"
+  },
+  "Copsychus cebuensis": {
+    "common": "Black Shama",
+    "class": "Aves"
+  },
+  "Muscicapa randi": {
+    "common": "Ashy-Breasted Flycatcher",
+    "class": "Aves"
+  },
+  "Polyplectron napoleonis": {
+    "common": "Palawan Peacock-Pheasant",
+    "class": "Aves"
+  },
+  "Chrysocolaptes xanthocephalus": {
+    "common": "Yellow-Faced Flameback",
+    "class": "Aves"
+  },
+  "Chrysocolaptes erythrocephalus": {
+    "common": "Red-Headed Flameback",
+    "class": "Aves"
+  },
+  "Prioniturus montanus": {
+    "common": "Montane Racket-Tail",
+    "class": "Aves"
+  },
+  "Prioniturus mindorensis": {
+    "common": "Mindoro Racket-Tail",
+    "class": "Aves"
+  },
+  "Calidris tenuirostris": {
+    "common": "Great Knot",
+    "class": "Aves"
+  },
+  "Otus fuliginosus": {
+    "common": "Palawan Scops Owl",
+    "class": "Aves"
+  },
+  "Ninox spilonota": {
+    "common": "Romblon Hawk-Owl",
+    "class": "Aves"
+  },
+  "Ninox leventisi": {
+    "common": "Camiguin Hawk-Owl",
+    "class": "Aves"
+  },
+  "Sula leucogaster": {
+    "common": "Brown Booby",
+    "class": "Aves"
+  },
+  "Turnix worcesteri": {
+    "common": "Worcester'S Buttonquail",
+    "class": "Aves"
+  },
+  "Zosterornis nigrorum": {
+    "common": "Negros Striped Babbler",
+    "class": "Aves"
+  },
+  "Dasycrotapha speciosa": {
+    "common": "Flame-Templed Babbler",
+    "class": "Aves"
+  },
+  "Heosemys spinosa": {
+    "common": "Spiny Hill Turtle",
+    "class": "Reptilia"
+  },
+  "Trimeresurus mcgregori": {
+    "common": "Mcgregor'S Pitviper",
+    "class": "Reptilia"
+  },
+  "Prionailurus bengalensis": {
+    "common": "Leopard Cat",
+    "class": "Mammalia"
+  },
+  "Phloeomys cumingi": {
+    "common": "Southern Luzon Giant Cloud Rat",
+    "class": "Mammalia"
+  },
+  "Rhynchomys tapulao": {
+    "common": "Zambales Shrew-Rat",
+    "class": "Mammalia"
+  },
+  "Pteropus dasymallus": {
+    "common": "Wooly Flying Fox",
+    "class": "Mammalia"
+  },
+  "Pteropus speciosus": {
+    "common": "Philippine Gray Flying Fox",
+    "class": "Mammalia"
+  },
+  "Pteropus leucopterus": {
+    "common": "White Winged Fruit Bat",
+    "class": "Mammalia"
+  },
+  "Styloctenium mindorensis": {
+    "common": "Mindoro Striped-Faced Fruit Bat",
+    "class": "Mammalia"
+  },
+  "Desmalopex microleucopterus": {
+    "common": "Mindoro Pallid Flying Fox",
+    "class": "Mammalia"
+  },
+  "Sus ahoenobarbus": {
+    "common": "Palawan Bearded Pig",
+    "class": "Mammalia"
+  },
+  "Sus philippensis": {
+    "common": "Philippine Warty Pig",
+    "class": "Mammalia"
+  },
+  "Haliaeetus ichthyaetus": {
+    "common": "Grey-Headed Fish Eagle",
+    "class": "Aves"
+  },
+  "Actenoides hombroni": {
+    "common": "Blue-Capped Wood Kingfisher",
+    "class": "Aves"
+  },
+  "Todiramphus winchelli": {
+    "common": "Rufous-Lored Kingfisher",
+    "class": "Aves"
+  },
+  "Ceyx melanurus": {
+    "common": "North Philippine Dwarf Kingfisher",
+    "class": "Aves"
+  },
+  "Ceyx flumenicola": {
+    "common": "Southern Silvery Kingfisher",
+    "class": "Aves"
+  },
+  "Ceyx argentatus": {
+    "common": "Northern Silvery Kingfisher",
+    "class": "Aves"
+  },
+  "Anhinga melanogaster": {
+    "common": "Oriental Darter",
+    "class": "Aves"
+  },
+  "Mearnsia picina": {
+    "common": "Philippine Spine-Tailed Swift",
+    "class": "Aves"
+  },
+  "Egretta eulophotes": {
+    "common": "Chinese Egret",
+    "class": "Aves"
+  },
+  "Anthracoceros marchei": {
+    "common": "Palawan Hornbill",
+    "class": "Aves"
+  },
+  "Rhabdotorrhinus leucocephalus": {
+    "common": "Writhed Hornbill",
+    "class": "Aves"
+  },
+  "Coracina mindanensis": {
+    "common": "Black-Bibbed Cuckooshrike",
+    "class": "Aves"
+  },
+  "Coracina ostenta": {
+    "common": "White-Winged Cuckooshrike",
+    "class": "Aves"
+  },
+  "Coracina mcgregori": {
+    "common": "Mcgregor'S Cuckooshrike",
+    "class": "Aves"
+  },
+  "Pericrocotus igneus": {
+    "common": "Fiery Minivet",
+    "class": "Aves"
+  },
+  "Charadrius peronii": {
+    "common": "Malaysian Plover",
+    "class": "Aves"
+  },
+  "Gallicolumba luzonica": {
+    "common": "Luzon Bleeding-Heart",
+    "class": "Aves"
+  },
+  "Gallicolumba crinigera": {
+    "common": "Mindanao Bleeding-Heart",
+    "class": "Aves"
+  },
+  "Phapitreron brunneiceps": {
+    "common": "Mindanao Brown Dove",
+    "class": "Aves"
+  },
+  "Treron axillaris": {
+    "common": "Philippine Green Pigeon",
+    "class": "Aves"
+  },
+  "Treron formosae": {
+    "common": "Whistling Green Pigeon",
+    "class": "Aves"
+  },
+  "Ptilinopus merrilli": {
+    "common": "Cream-Breasted Fruit Dove",
+    "class": "Aves"
+  },
+  "Dicaeum proprium": {
+    "common": "Whiskered Flowerpecker",
+    "class": "Aves"
+  },
+  "Dicaeum haematostictum": {
+    "common": "Black-Belted Flowerpecker/Visayan Flowerpecker",
+    "class": "Aves"
+  },
+  "Dicaeum retrocinctum": {
+    "common": "Scarlet-Collared Flowerpecker",
+    "class": "Aves"
+  },
+  "Emberiza sulphurata": {
+    "common": "Yellow Bunting",
+    "class": "Aves"
+  },
+  "Erythrura viridifacies": {
+    "common": "Green-Faced Parrotfinch",
+    "class": "Aves"
+  },
+  "Sarcophanops steerii": {
+    "common": "Wattled Broadbill",
+    "class": "Aves"
+  },
+  "Thalasseus bergii": {
+    "common": "Great Crested Tern",
+    "class": "Aves"
+  },
+  "Onychoprion fuscatus": {
+    "common": "Sooty Tern",
+    "class": "Aves"
+  },
+  "Anous stolidus": {
+    "common": "Brown Noddy",
+    "class": "Aves"
+  },
+  "Robsonius rabori": {
+    "common": "Cordillera Ground Warbler",
+    "class": "Aves"
+  },
+  "Robsonius sorsogonensis": {
+    "common": "Bicol Ground Warbler",
+    "class": "Aves"
+  },
+  "Megapodius cumingii": {
+    "common": "Philippine Megapode/ Tabon Scrubfowl",
+    "class": "Aves"
+  },
+  "Terpsiphone atrocaudata": {
+    "common": "Japanese Paradise Flycatcher",
+    "class": "Aves"
+  },
+  "Vauriella insignis": {
+    "common": "White-Browed Jungle Flycatcher",
+    "class": "Aves"
+  },
+  "Vauriella goodfellowi": {
+    "common": "Slaty-Backed Jungle Flycatcher",
+    "class": "Aves"
+  },
+  "Ficedula basilanica": {
+    "common": "Little Slaty Flycatcher",
+    "class": "Aves"
+  },
+  "Ficedula platenae": {
+    "common": "Palawan Flycatcher",
+    "class": "Aves"
+  },
+  "Rhyacornis bicolor": {
+    "common": "Luzon Water Redstart",
+    "class": "Aves"
+  },
+  "Aethopyga linaraborae": {
+    "common": "Lina'S Sunbird",
+    "class": "Aves"
+  },
+  "Oriolus xanthonotus": {
+    "common": "Dark-Throated Oriole",
+    "class": "Aves"
+  },
+  "Pelecanus crispus": {
+    "common": "Dalmatian Pelican",
+    "class": "Aves"
+  },
+  "Ptilocichla falcata": {
+    "common": "Falcated Wren-Babbler",
+    "class": "Aves"
+  },
+  "Phylloscopus ijimae": {
+    "common": "Ijima'S Leaf Warbler",
+    "class": "Aves"
+  },
+  "Dendrocopos ramsayi": {
+    "common": "Sulu Pygmy Woodpecker",
+    "class": "Aves"
+  },
+  "Mulleripicus pulverulentus": {
+    "common": "Great Slaty Woodpecker",
+    "class": "Aves"
+  },
+  "Erythropitta kochi": {
+    "common": "Whiskered Pitta",
+    "class": "Aves"
+  },
+  "Pitta steerii": {
+    "common": "Azure-Breasted Pitta",
+    "class": "Aves"
+  },
+  "Pitta nympha": {
+    "common": "Fairy Pitta",
+    "class": "Aves"
+  },
+  "Batrachostomus chaseni": {
+    "common": "Palawan Frogmouth",
+    "class": "Aves"
+  },
+  "Pterodroma sandwichensis": {
+    "common": "Hawaiian Petrel",
+    "class": "Aves"
+  },
+  "Trichoglossus johnstoniae": {
+    "common": "Mindanao Lorikeet",
+    "class": "Aves"
+  },
+  "Prioniturus waterstradti": {
+    "common": "Mindanao Racket-Tail",
+    "class": "Aves"
+  },
+  "Prioniturus platenae": {
+    "common": "Blue-Headed Racket-Tail",
+    "class": "Aves"
+  },
+  "Hypsipetes rufigularis": {
+    "common": "Zamboanga Bulbul",
+    "class": "Aves"
+  },
+  "Limnodromus semipalmatus": {
+    "common": "Asian Dowitcher",
+    "class": "Aves"
+  },
+  "Limosa limosa": {
+    "common": "Black-Tailed Godwit",
+    "class": "Aves"
+  },
+  "Numenius tahitiensis": {
+    "common": "Bristle-Thighed Curlew",
+    "class": "Aves"
+  },
+  "Otus longicornis": {
+    "common": "Luzon Scops Owl",
+    "class": "Aves"
+  },
+  "Otus mindorensis": {
+    "common": "Mindoro Scops Owl",
+    "class": "Aves"
+  },
+  "Otus mantananensis": {
+    "common": "Mantanani Scops Owl",
+    "class": "Aves"
+  },
+  "Ninox randi": {
+    "common": "Chocolate Boobook",
+    "class": "Aves"
+  },
+  "Ninox spilocephala": {
+    "common": "Mindanao Hawk-Owl",
+    "class": "Aves"
+  },
+  "Ninox mindorensis": {
+    "common": "Mindoro Hawk-Owl",
+    "class": "Aves"
+  },
+  "Ninox reyi": {
+    "common": "Sulu Hawk-Owl",
+    "class": "Aves"
+  },
+  "Basilornis mirandus": {
+    "common": "Apo Myna",
+    "class": "Aves"
+  },
+  "Gracula religiosa": {
+    "common": "Common Hill Myna",
+    "class": "Aves"
+  },
+  "Micromacronus leytensis": {
+    "common": "Visayan Miniature Babbler",
+    "class": "Aves"
+  },
+  "Geokichla cinerea": {
+    "common": "Ashy Thrush",
+    "class": "Aves"
+  },
+  "Zosterornis striatus": {
+    "common": "Luzon Striped Babbler",
+    "class": "Aves"
+  },
+  "Zosterornis latistriatus": {
+    "common": "Panay Striped Babbler",
+    "class": "Aves"
+  },
+  "Cyclemys dentata": {
+    "common": "Asian Leaf Turtle",
+    "class": "Reptilia"
+  },
+  "Varanus (Phillipinosaurus) bitatawa": {
+    "common": "Northern Sierra Madre Forest Monitor Lizard",
+    "class": "Reptilia"
+  },
+  "Varanus (Phillipinosaurus) olivaceus": {
+    "common": "Gray'S Monitor Lizard",
+    "class": "Reptilia"
+  },
+  "Barbourula busuangensis": {
+    "common": "Philippine Flat-Headed Frog",
+    "class": "Reptilia"
+  },
+  "Ansonia mcgregori": {
+    "common": "Mcgregor’S Slender Stream Toad",
+    "class": "Reptilia"
+  },
+  "Platymantis (Lahatnanguri) banahao": {
+    "common": "Banahao Horned Tree Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis (Tahananpuno) bayani": {
+    "common": "Walter’S Limestone Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis (Lahatnanguri) biak": {
+    "common": "Biak-Na-Bato Limestone Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis (Lupacolus) indeprensus": {
+    "common": "Banahao Cliff Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis (Tirahanulap) isarog": {
+    "common": "Bicol Cloud Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis (Tirahanulap) lawtoni": {
+    "common": "Lawton’S Cloud Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis (Lahatnanguri) levigatus": {
+    "common": "Romblon Streambank",
+    "class": "Amphibia"
+  },
+  "Platymantis (Tirahanulap) montanus": {
+    "common": "Banahao Cloud Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis (Lupacolus) naomiae": {
+    "common": "Naomi’S Montane Wrinkled Ground Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis (Tahananpuno) negrosensis": {
+    "common": "Negros Horned Tree Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis (Tirahanulap) panayensis": {
+    "common": "Panay Cloud Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis (Lupacolus) pseudodorsalis": {
+    "common": "Banahao Streambank Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis (Tahananpuno) rabori": {
+    "common": "Rabor’S Horned Tree Frog",
+    "class": "Amphibia"
+  },
+  "Platymantis (Tirahanulap) subterrestris": {
+    "common": "Cordilleras Cloud Frog",
+    "class": "Amphibia"
+  },
+  "Limnonectes diuatus": {
+    "common": "White-Spined Fanged Frog",
+    "class": "Amphibia"
+  },
+  "Limnonectes visayanus": {
+    "common": "Visayan Fanged Frog",
+    "class": "Amphibia"
+  },
+  "Philautus schmackeri": {
+    "common": "Mindoro Bush Frog",
+    "class": "Amphibia"
+  },
+  "Philautus surrufus": {
+    "common": "Rufous Bush Frog",
+    "class": "Amphibia"
+  },
+  "Philautus worcesteri": {
+    "common": "Worcester’S Bush Frog",
+    "class": "Amphibia"
+  },
+  "Archboldomys luzonensis": {
+    "common": "Isarog Shrew Mouse",
+    "class": "Mammalia"
+  },
+  "Batomys uragon": {
+    "common": "Mt. Isarog Hairy-Tailed Rat",
+    "class": "Mammalia"
+  },
+  "Soricomys kalinga": {
+    "common": "Kalinga Shrew-Mouse",
+    "class": "Mammalia"
+  },
+  "Soricomys leonardocoi": {
+    "common": "Mingan Shrew-Mouse",
+    "class": "Mammalia"
+  },
+  "Soricomys montanus": {
+    "common": "Southern Cordillera Shrew-Mouse",
+    "class": "Mammalia"
+  },
+  "Rhynchomys banahao": {
+    "common": "Banahao Shrew-Rat",
+    "class": "Mammalia"
+  },
+  "Apomys aurorae": {
+    "common": "Aurora Forest Mouse",
+    "class": "Mammalia"
+  },
+  "Apomys banahao": {
+    "common": "Banahao Forest Mouse",
+    "class": "Mammalia"
+  },
+  "Apomys brownorum": {
+    "common": "Tapulao Forest Mouse",
+    "class": "Mammalia"
+  },
+  "Apomys lubangensis": {
+    "common": "Lubang Island Shrew Mouse",
+    "class": "Mammalia"
+  },
+  "Apomys magnus": {
+    "common": "Lowland Banahaw Forest Mouse",
+    "class": "Mammalia"
+  },
+  "Apomys minganensis": {
+    "common": "Mingan Forest Mouse",
+    "class": "Mammalia"
+  },
+  "Apomys sierrae": {
+    "common": "Northern Sierra Madre Forest Mouse",
+    "class": "Mammalia"
+  },
+  "Apomys zambalensis": {
+    "common": "Zambales Forest Mouse",
+    "class": "Mammalia"
+  },
+  "Archboldomys maximus": {
+    "common": "Large Cordillera Shrew-Mouse",
+    "class": "Mammalia"
+  },
+  "Musseromys gulantang": {
+    "common": "Banahaw Tree-Mouse",
+    "class": "Mammalia"
+  },
+  "Musseromys anacuao": {
+    "common": "Sierra Madre Tree-Mouse",
+    "class": "Mammalia"
+  },
+  "Musseromys beneficus": {
+    "common": "Mt. Pulag Tree-Mouse",
+    "class": "Mammalia"
+  },
+  "Musseromys inopinatus": {
+    "common": "Amuyao Tree-Mouse",
+    "class": "Mammalia"
+  },
+  "Tarsius syrichta": {
+    "common": "Philippine Tarsier",
+    "class": "Mammalia"
+  },
+  "Arctictis binturong": {
+    "common": "Binturong",
+    "class": "Mammalia"
+  },
+  "Aegypius monachus": {
+    "common": "Cinereous Vulture",
+    "class": "Aves"
+  },
+  "Ceyx margarethae": {
+    "common": "Dimorphic Dwarf Kingfisher",
+    "class": "Aves"
+  },
+  "Bombycilla japonica": {
+    "common": "Japanese Waxwing",
+    "class": "Aves"
+  },
+  "Ciconia episcopus": {
+    "common": "Woolly-Necked Stork",
+    "class": "Aves"
+  },
+  "Orthotomus samarensis": {
+    "common": "Yellow-Breasted Tailorbird",
+    "class": "Aves"
+  },
+  "Centropus unirufus": {
+    "common": "Rufous Coucal",
+    "class": "Aves"
+  },
+  "Dicaeum anthonyi": {
+    "common": "Flame-Crowned Flowerpecker",
+    "class": "Aves"
+  },
+  "Phoebastria immutabilis": {
+    "common": "Laysan Albatross",
+    "class": "Aves"
+  },
+  "Erythrura coloria": {
+    "common": "Red-Eared Parrotfinch",
+    "class": "Aves"
+  },
+  "Oceanodroma monorhis": {
+    "common": "Swinhoe'S Storm Petrel",
+    "class": "Aves"
+  },
+  "Onychoprion anaethetus": {
+    "common": "Bridled Tern",
+    "class": "Aves"
+  },
+  "Robsonius thompsoni": {
+    "common": "Sierra Madre Ground Warbler",
+    "class": "Aves"
+  },
+  "Hypothymis helenae": {
+    "common": "Short-Crested Monarch",
+    "class": "Aves"
+  },
+  "Anthreptes griseigularis": {
+    "common": "Grey-Throated Sunbird",
+    "class": "Aves"
+  },
+  "Aethopyga primigenia": {
+    "common": "Grey-Hooded Sunbird",
+    "class": "Aves"
+  },
+  "Aethopyga boltoni": {
+    "common": "Apo Sunbird",
+    "class": "Aves"
+  },
+  "Aethopyga guimarasensis": {
+    "common": "Maroon-Naped Sunbird",
+    "class": "Aves"
+  },
+  "Aethopyga decorosa": {
+    "common": "Bohol Sunbird",
+    "class": "Aves"
+  },
+  "Periparus amabilis": {
+    "common": "Palawan Tit",
+    "class": "Aves"
+  },
+  "Parus semilarvatus": {
+    "common": "White-Fronted Tit",
+    "class": "Aves"
+  },
+  "Pelecanus philippensis": {
+    "common": "Spot-Billed Pelican",
+    "class": "Aves"
+  },
+  "Malacopteron palawanense": {
+    "common": "Melodious Babbler",
+    "class": "Aves"
+  },
+  "Dinopium everetti": {
+    "common": "Spot-Throated Flameback",
+    "class": "Aves"
+  },
+  "Pseudobulweria rostrata": {
+    "common": "Tahiti Petrel",
+    "class": "Aves"
+  },
+  "Prioniturus discurus": {
+    "common": "Blue-Crowned Racket-Tail",
+    "class": "Aves"
+  },
+  "Alophoixus frater": {
+    "common": "Palawan Bulbul",
+    "class": "Aves"
+  },
+  "Numenius arquata": {
+    "common": "Eurasian Curlew",
+    "class": "Aves"
+  },
+  "Otus elegans": {
+    "common": "Ryukyu Scops Owl",
+    "class": "Aves"
+  },
+  "Threskiornis melanocephalus": {
+    "common": "Black-Headed Ibis",
+    "class": "Aves"
+  },
+  "Zosterornis hypogrammicus": {
+    "common": "Palawan Striped Babbler",
+    "class": "Aves"
+  },
+  "Dasycrotapha plateni": {
+    "common": "Mindanao Pygmy Babbler",
+    "class": "Aves"
+  },
+  "Dasycrotapha pygmaea": {
+    "common": "Visayan Pygmy Babbler",
+    "class": "Aves"
+  },
+  "Sterrhoptilus dennistouni": {
+    "common": "Golden-Crowned Babbler",
+    "class": "Aves"
+  },
+  "Bronchocela cristatella": {
+    "common": "Green Crested Lizard",
+    "class": "Reptilia"
+  },
+  "Bronchocela marmorata": {
+    "common": "Marbled Crested Lizard; Marbled Bloodsucker",
+    "class": "Reptilia"
+  },
+  "Gonocephalus interruptus": {
+    "common": "Boulenger'S Forest Dragon; Mindoro Anglehead",
+    "class": "Reptilia"
+  },
+  "Gonocephalus sophiae": {
+    "common": "White-Spotted Forest Dragon; Negros Forest Dragon",
+    "class": "Reptilia"
+  },
+  "Boiga angulata": {
+    "common": "Philippine Blunt-Headed Tree Snake",
+    "class": "Reptilia"
+  },
+  "Boiga cynodon": {
+    "common": "Dog-Toothed Tree Snake",
+    "class": "Reptilia"
+  },
+  "Boiga dendrophila": {
+    "common": "Mangrove Blunt-Headed Tree Snake",
+    "class": "Reptilia"
+  },
+  "Boiga philippina": {
+    "common": "Philippine Cat Snake",
+    "class": "Reptilia"
+  },
+  "Coelognathus erythrurus": {
+    "common": "Philippine Red-Tailed Rat Snake",
+    "class": "Reptilia"
+  },
+  "Gonyosoma oxycephalum": {
+    "common": "Green Red-Tailed Rat Snake",
+    "class": "Reptilia"
+  },
+  "Ptyas carinatus": {
+    "common": "Keeled Rat Snake",
+    "class": "Reptilia"
+  },
+  "Ptyas luzonensis": {
+    "common": "Philippine Mountain Rat Snake",
+    "class": "Reptilia"
+  },
+  "Naja philippinensis": {
+    "common": "Northern Philippine Cobra",
+    "class": "Reptilia"
+  },
+  "Naja samarensis": {
+    "common": "Philippine Yellow-Throated Cobra",
+    "class": "Reptilia"
+  },
+  "Naja sumatrana": {
+    "common": "Equatorial Or Sumatran Spitting Cobra",
+    "class": "Reptilia"
+  },
+  "Ophiophagus hannah": {
+    "common": "King Cobra",
+    "class": "Reptilia"
+  },
+  "Gekko gecko": {
+    "common": "Tokay Gecko",
+    "class": "Reptilia"
+  },
+  "Pseudogekko smaragdinus": {
+    "common": "Green Smooth-Scaled Gecko",
+    "class": "Reptilia"
+  },
+  "Ptychozoon intermedium": {
+    "common": "Philippine Flying Gecko",
+    "class": "Reptilia"
+  },
+  "Cuora amboinensis": {
+    "common": "Malayan Box Turtle/Southeast Asian Box Turtle",
+    "class": "Reptilia"
+  },
+  "Malayopython reticulatus": {
+    "common": "Reticulated Python",
+    "class": "Reptilia"
+  },
+  "Tropidophorus grayi": {
+    "common": "Spiny Waterside Skink",
+    "class": "Reptilia"
+  },
+  "Pelochelys cantorii": {
+    "common": "Asian Giant Softshell Turtle",
+    "class": "Reptilia"
+  },
+  "Varanus (Soterosaurus) bangonorum": {
+    "common": "Bangon Monitor Lizard",
+    "class": "Reptilia"
+  },
+  "Varanus (Soterosaurus) cumingi": {
+    "common": "Cuming'S Monitor Lizard",
+    "class": "Reptilia"
+  },
+  "Varanus (Soterosaurus) dalubhasa": {
+    "common": "Enteng'S Monitor Lizard",
+    "class": "Reptilia"
+  },
+  "Varanus (Soterosaurus) marmoratus": {
+    "common": "Luzon Monitor Lizard ",
+    "class": "Reptilia"
+  },
+  "Varanus (Soterosaurus) nuchalis": {
+    "common": "West Visayan Monitor Lizard",
+    "class": "Reptilia"
+  },
+  "Varanus (Soterosaurus) palawanensis": {
+    "common": "Palawan Monitor Lizard",
+    "class": "Reptilia"
+  },
+  "Varanus (Soterosaurus) rasmusseni": {
+    "common": "Jolo-Tawi-Tawi Monitor Lizard",
+    "class": "Reptilia"
+  },
+  "Varanus (Soterosaurus) samarensis": {
+    "common": "Samar Monitor Lizard",
+    "class": "Reptilia"
+  },
+  "Trimeresurus (Parias) flavomaculatus": {
+    "common": "Philippine Pitviper",
+    "class": "Reptilia"
+  },
+  "Trimeresurus schultzei": {
+    "common": "Schultze'S Pitviper",
+    "class": "Reptilia"
+  },
+  "Tropidolaemus philippensis": {
+    "common": "Southern Philippine Temple Pit Viper",
+    "class": "Reptilia"
+  },
+  "Tropidolaemus subannulatus": {
+    "common": "Philippine-Bornean Temple Pit Viper/ North Philippine Temple Pitviper",
+    "class": "Reptilia"
+  },
+  "Limnonectes acanthi": {
+    "common": "Palawan Fanged Frog",
+    "class": "Amphibia"
+  },
+  "Limnonectes macrocephalus": {
+    "common": "Luzon Fanged Frog",
+    "class": "Amphibia"
+  },
+  "Limnonectes magnus": {
+    "common": "Mindanao Fanged Frog",
+    "class": "Amphibia"
+  },
+  "Ichthyophis glandulosus": {
+    "common": "Basilan Caecilian",
+    "class": "Amphibia"
+  },
+  "Ichthyophis mindanaoensis": {
+    "common": "Mindanao Caecilian",
+    "class": "Amphibia"
+  },
+  "Leptobrachium mangyanorum": {
+    "common": "Mindoro Litter Frog",
+    "class": "Amphibia"
+  },
+  "Megophrys ligayae": {
+    "common": "Palawan Horned Frog",
+    "class": "Amphibia"
+  },
+  "Megophrys stejnegeri": {
+    "common": "Mindanao Horned Frog",
+    "class": "Amphibia"
+  },
+  "Helicostyla smargadina": {
+    "common": "Tree Snail",
+    "class": "Gastropoda"
+  },
+  "Coneuplecta turrita": {
+    "common": "Turret Snail",
+    "class": "Gastropoda"
+  },
+  "Poritia solitaria": {
+    "common": "Angat Common Gem",
+    "class": "Insecta"
+  },
+  "Tanaecia dodong": {
+    "common": "Masbate Brush-Footed Butterfly",
+    "class": "Insecta"
+  },
+  "Tanaecia susoni": {
+    "common": "Cebu Brush-Footed Butterfly",
+    "class": "Insecta"
+  },
+  "Tanaecia lupina": {
+    "common": "Jolo Brush-Footed Butterfly",
+    "class": "Insecta"
+  },
+  "Helcyra miyazakii": {
+    "common": "Miyazaki'S Nymphalid",
+    "class": "Insecta"
+  },
+  "Chilasa osmana": {
+    "common": "Leyte Swallowtail",
+    "class": "Insecta"
+  },
+  "Chilasa carolinensis": {
+    "common": "Mindanao Swallowtail",
+    "class": "Insecta"
+  },
+  "Menelaides luzviae": {
+    "common": "Marinduque Swallowtail",
+    "class": "Insecta"
+  },
+  "Pathysa euphratoides": {
+    "common": "Mindanao Swordtail",
+    "class": "Insecta"
+  },
+  "Protosticta plicata": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Risiocnemis seidenschwarzi": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Rhinocypha hageni": {
+    "common": "Hagen'S Damselfly",
+    "class": "Insecta"
+  },
+  "Amemboa (s.str.) philippinensis": {
+    "common": "Philippine Water Strider",
+    "class": "Insecta"
+  },
+  "Arhopala tindongani": {
+    "common": "Tindongan'S Oakblue",
+    "class": "Insecta"
+  },
+  "Nocticola simoni": {
+    "common": "Simon'S Cave Cockroach",
+    "class": "Insecta"
+  },
+  "Nocticola caeca": {
+    "common": "Antipolo Blind Cave Cockroach",
+    "class": "Insecta"
+  },
+  "Sulcosticta striata": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Gynacantha constricta": {
+    "common": "Constricted Darner",
+    "class": "Insecta"
+  },
+  "Devadatta basilanensis": {
+    "common": "Basilan Damselfly",
+    "class": "Insecta"
+  },
+  "Luzonargiolestes baltazarae": {
+    "common": "Baltazar'S Damselfly",
+    "class": "Insecta"
+  },
+  "Luzonargiolestes realensis": {
+    "common": "Real Quezon Damselfly",
+    "class": "Insecta"
+  },
+  "Opisthoplatia beybienkoi": {
+    "common": "Bey-Bienko'S Apterous Cockroach",
+    "class": "Insecta"
+  },
+  "Perisphaerus flavicornis": {
+    "common": "Yellow-Banded Pill Cockroach",
+    "class": "Insecta"
+  },
+  "Perisphaerus glomeriformis": {
+    "common": "Black-Head Pill Cockroach",
+    "class": "Insecta"
+  },
+  "Homalosilpha ustulata": {
+    "common": "Silphid Cockroach",
+    "class": "Insecta"
+  },
+  "Periplaneta banksi": {
+    "common": "Banks' Cockroach",
+    "class": "Insecta"
+  },
+  "Helicostyla daphnis": {
+    "common": "Tree Snail",
+    "class": "Gastropoda"
+  },
+  "Helicostyla portei": {
+    "common": "Tree Snail",
+    "class": "Gastropoda"
+  },
+  "Mesanella monochroa palawanica": {
+    "common": "Palawan Tree Snail",
+    "class": "Gastropoda"
+  },
+  "Chrysodema dalmanni": {
+    "common": "Jewel Beetles",
+    "class": "Insecta"
+  },
+  "Chrysodema eximia": {
+    "common": "Jewel Beetles",
+    "class": "Insecta"
+  },
+  "Chrysodema jucunda": {
+    "common": "Jewel Beetles",
+    "class": "Insecta"
+  },
+  "Chrysodema manillarum": {
+    "common": "Jewel Beetles",
+    "class": "Insecta"
+  },
+  "Chrysodema smaragdula": {
+    "common": "Jewel Beetles",
+    "class": "Insecta"
+  },
+  "Stenoleptura apoensis": {
+    "common": "Longhorn Beetles",
+    "class": "Insecta"
+  },
+  "Rhinocypha dorsosanguinea": {
+    "common": "Red-Backed Damselfly",
+    "class": "Insecta"
+  },
+  "Rhinocypha latimacula": {
+    "common": "Bongo Damselfly",
+    "class": "Insecta"
+  },
+  "Psithyristria ridibunda": {
+    "common": "Laughing Cicada",
+    "class": "Insecta"
+  },
+  "Luzonobasis glauca": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Pandanobasis cantuga": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Pandanobasis daku": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Eupachyrrhynchus superbus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Homalocyrtus maculatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Macrocyrtus contractus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Macrocyrtus erosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus humeralis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) quadriplagiatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) bifasciatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) subfasciatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) pardalis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) bucasanus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) samarensis": {
+    "common": "Samar Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) sexmaculatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) derasocobaltimus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) longipenis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) octomaculatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) diffusisquamosus": {
+    "common": "Easter Egg Beetles",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) violaceous": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Artapocyrtus) geniculatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) quadrilifer": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) subquadrilifer": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) boholensis": {
+    "common": "Bohol Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) triangularis": {
+    "common": "Triangle Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) ilocanus": {
+    "common": "Ilocano Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) tumoridorsum": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) helleri": {
+    "common": "Heller'S Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) moorei": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) ostentator": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) virens": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) bifoveatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) consobrinus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) monstrosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) schoenherri": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) lanusinus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) insulanus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) ornatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Orthocyrtus) propolitus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) proteus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) sumptuosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) congestus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) abbrevilineatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) derasus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) impius": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) gregarius": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) chlamydatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) macgregori": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) similis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) picticollis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) camarinensis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) polilloensis": {
+    "common": "Polillo Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) batanensis": {
+    "common": "Batan Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) brevicollis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) lumutanus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) subfaciatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) magnigibbicollis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) difficilis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) whiteheadi": {
+    "common": "Whitehead'S Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) reyesi": {
+    "common": "Reyes Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) elongates": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) gibbirostris": {
+    "common": "Round-Snout Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) bukidnonensis": {
+    "common": "Bukidnon Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) visayaensis": {
+    "common": "Visayan Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) annulatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) figuratus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) bifoveatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) niger": {
+    "common": "Black Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) elegans": {
+    "common": "Elegant Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) mindorensis": {
+    "common": "Mindoro Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) rugicollis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) acutipennis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) picipennis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) erichsoni": {
+    "common": "Erichnsoni'S Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) panayensis": {
+    "common": "Panay Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) subdiffusus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) subvirgatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) lindabonus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) pseudomandarinus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) imitatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) interruptostriatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) interruptolineatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) interruptus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) pseudomonilifer": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) politus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) schicki": {
+    "common": "Schick'S Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) caeruleomaculatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) lepantoensis": {
+    "common": "Lepanto Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) striatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) virgatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) sibuyanensis": {
+    "common": "Sibuyan Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) perpulcheroides": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) worcesteri": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) politissimus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) monticola": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) multisquamosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) pilositibialis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) limayensis": {
+    "common": "Limay Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Metapocyrtus) tenuipes": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Dolichocephalocyrtus) chloromaculatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Dolichocephalocyrtus) frosti": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Dolichocephalocyrtus) ruficollis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Dolichocephalocyrtus) lineaticollis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Dolichocephalocyrtus) trifaciatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Sphenomorphoidea) metallicus": {
+    "common": "Metallic Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Sphenomorphoidea) transversarius": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Dolichocephalocyrtus) negrosensis": {
+    "common": "Negros Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Dolichocephalocyrtus) clemensi": {
+    "common": "Clemens' Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Dolichocephalocyrtus) mindanaoensis": {
+    "common": "Mindanao Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Dolichocephalocyrtus) ticaoensis": {
+    "common": "Ticao Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Dolichocephalocyrtus) subdolosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Dolichocephalocyrtus) univerrucosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Sphenomorphoidea) laevicollis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) apoensis": {
+    "common": "Apo Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) joloensis": {
+    "common": "Jolo Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) smaragdinus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) confusus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) tawiensis": {
+    "common": "Tawi-Tawi Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) socius": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) vestitus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) viridans": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) pseudoviridans": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) acutispinosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) banahaoensis": {
+    "common": "Banahaw Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) rostrogibbous": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Trachycyrtus) profanes": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Sclerocyrtus) asper": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Metapocyrtus (Sclerocyrtus) celestinoi": {
+    "common": "Celestino'S Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus absurdus": {
+    "common": "Absurd Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus amabilis": {
+    "common": "Friendly Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus anellifer": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus apicatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus apocyrtoides": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus apoensis": {
+    "common": "Apo Pachyrhynchid ",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus ardentius": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus argus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus atrocyaneus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus baluganus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus basilanus": {
+    "common": "Basilan Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus bengetanus": {
+    "common": "Benguet Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus bucasanus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus caeruleovittatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus chamissoi": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus chlorites": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus chrysomelas": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus circulatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus congestus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus consobrinus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus corpulentus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus croesus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus cumingi": {
+    "common": "Cuming'S Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus davaoensis": {
+    "common": "Davao Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus decussatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus dohrni": {
+    "common": "Dohrn'S Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus dubiosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus elegans": {
+    "common": "Elegant Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus eos": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus eques": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus erichsoni": {
+    "common": "Erichson'S Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus erosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus forsteni": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus galerensis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus gemmatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus gloriosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus halconensis": {
+    "common": "Halcon Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus helleri": {
+    "common": "Heller'S Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus hirokii": {
+    "common": "Hiroki'S Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus igorota": {
+    "common": "Igorot Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus inclytus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus infernalis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus jugifer": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus lacunosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus latifasciatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus libucanus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus loheri": {
+    "common": "Loher'S Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus lorquini": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus lubanganus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus moniliferus": {
+    "common": "Cacao Weevil",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus morio": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus multipunctatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus naokii": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus negrosensis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus nobilis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus nobiliyamianus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus ochroplagiatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus orbifer": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus pelpulcher": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus phaleratus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus pinorum": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus postpubescens": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus pseudomabilis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus pseudoproteus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus psittacinus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus pulchellus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus regius": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus reticulatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus rizali": {
+    "common": "Rizal'S Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus roseomaculatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus rufopunctatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus rugicollis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus samarensis": {
+    "common": "Samar Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus sanchezi": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus sarcitis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus scheonherri": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus schuetzei": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus semiignitus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus semperi": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus signaticollis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus signatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus smaragdinus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus sonani": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus speciosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus sphaericollaris": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus sphenomorphoides": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus stello": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus striatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus subamabilis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus sulphureomaculatus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus sumptuosus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus tadaochii": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus taylori": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus tilikensis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus tobafolius": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus tristis": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus venustus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus viridans": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus yamianus": {
+    "common": "Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus zamboanganus": {
+    "common": "Zamboanga Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Pachyrrhynchus zebra": {
+    "common": "Zebra Easter Egg Beetle",
+    "class": "Insecta"
+  },
+  "Hemicordulia apoensis": {
+    "common": "Emerald Dragonfly",
+    "class": "Insecta"
+  },
+  "Conlephasma enigma": {
+    "common": "Enigmatic Stick Insect",
+    "class": "Insecta"
+  },
+  "Heterophaea barbata": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Milionia coronifera": {
+    "common": "Pine Looper Moth",
+    "class": "Insecta"
+  },
+  "Milionia philippinensis": {
+    "common": "Philippine Day Flying Moth",
+    "class": "Insecta"
+  },
+  "Aquarius philippinensis": {
+    "common": "Philippine Water Strider",
+    "class": "Insecta"
+  },
+  "Ryssota otaheitana": {
+    "common": "Helical Snail",
+    "class": "Gastropoda"
+  },
+  "Ryssota sagittifera batanica": {
+    "common": "Helical Snail",
+    "class": "Gastropoda"
+  },
+  "Hydrotrephes minutus": {
+    "common": "Minute Helotrephid Backswimmer",
+    "class": "Insecta"
+  },
+  "Hydrotrephes busuanganus": {
+    "common": "Busuanga Helotrephid Backswimmer",
+    "class": "Insecta"
+  },
+  "Hydrotrephes stereoides": {
+    "common": "Water Bug",
+    "class": "Insecta"
+  },
+  "Hermatobates marchei": {
+    "common": "Sea Skater",
+    "class": "Insecta"
+  },
+  "Dorcus parryi": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Dorcus taurus": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Dorcus titanus": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Metallactulus parvulus": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Odontolabis alces": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Odontolabis intermedia": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Odontolabis latipennis": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Arhopala luzonensis": {
+    "common": "Luzon Oakblue",
+    "class": "Insecta"
+  },
+  "Arhopala simoni": {
+    "common": "Tawi-Tawi Oakblue",
+    "class": "Insecta"
+  },
+  "Dacalana halconensis": {
+    "common": "Halcon Royal",
+    "class": "Insecta"
+  },
+  "Deramas mindanensis": {
+    "common": "Mindanao Bluejohn",
+    "class": "Insecta"
+  },
+  "Deramas sumikat": {
+    "common": "Negros Bluejohn",
+    "class": "Insecta"
+  },
+  "Miletus takanamii": {
+    "common": "Takanami'S Brownie",
+    "class": "Insecta"
+  },
+  "Una philippensis": {
+    "common": "Philippine Una",
+    "class": "Insecta"
+  },
+  "Borborophyes mayri": {
+    "common": "Mayr's Water Bug",
+    "class": "Insecta"
+  },
+  "Charaxes sangana": {
+    "common": "Sanga Emperor",
+    "class": "Insecta"
+  },
+  "Elymnias luteofasciata": {
+    "common": "Mindanao Palmfly",
+    "class": "Insecta"
+  },
+  "Euthalia mindanaensis": {
+    "common": "Mindanao Baron Butterfly",
+    "class": "Insecta"
+  },
+  "Parantica davidi": {
+    "common": "David'S Tiger",
+    "class": "Insecta"
+  },
+  "Parantica noeli": {
+    "common": "Noel'S Tiger",
+    "class": "Insecta"
+  },
+  "Terinos romeo": {
+    "common": "Romeo'S Assyrian",
+    "class": "Insecta"
+  },
+  "Ochterus baltazarae": {
+    "common": "Baltazar'S Ochterid",
+    "class": "Insecta"
+  },
+  "Ochterus magnificus": {
+    "common": "Magnificent Ochterid",
+    "class": "Insecta"
+  },
+  "Ochterus magnus": {
+    "common": "Big Ochterid",
+    "class": "Insecta"
+  },
+  "Achillides chikae": {
+    "common": "Luzon Peacock Swallowtail",
+    "class": "Insecta"
+  },
+  "Pachliopta strandi": {
+    "common": "Philippine Crimson Rose",
+    "class": "Insecta"
+  },
+  "Mithrenes asperulus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Microphyllium spinithorax": {
+    "common": "Leaf Insect",
+    "class": "Insecta"
+  },
+  "Microphyllium pusillulum": {
+    "common": "Leaf Insect",
+    "class": "Insecta"
+  },
+  "Phyllium ericoriai": {
+    "common": "Leaf Insect",
+    "class": "Insecta"
+  },
+  "Phyllium gantungense": {
+    "common": "Leaf Insect",
+    "class": "Insecta"
+  },
+  "Phyllium mabantai": {
+    "common": "Leaf Insect",
+    "class": "Insecta"
+  },
+  "Phyllium mindorense": {
+    "common": "Leaf Insect",
+    "class": "Insecta"
+  },
+  "Phyllium palawanense": {
+    "common": "Leaf Insect",
+    "class": "Insecta"
+  },
+  "Phyllium bonifacioi": {
+    "common": "Bonifacio'S Leaf Insect",
+    "class": "Insecta"
+  },
+  "Phyllium bilobatum": {
+    "common": "Leaf Insect",
+    "class": "Insecta"
+  },
+  "Phyllium geryon": {
+    "common": "Leaf Insect",
+    "class": "Insecta"
+  },
+  "Phyllium woodi": {
+    "common": "Leaf Insect",
+    "class": "Insecta"
+  },
+  "Coeliccia exoleta": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Risiocnemis antoniae": {
+    "common": "Antonia'S Damselfly",
+    "class": "Insecta"
+  },
+  "Risiocnemis odobeni": {
+    "common": "Odoben'S Damselfly",
+    "class": "Insecta"
+  },
+  "Risiocnemis pulchra": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Drepanosticta aries": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Drepanosticta aurita": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Drepanosticta centrosaurus": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Drepanosticta ceratophora": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Drepanosticta furcata": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Drepanosticta myzouris": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Drepanosticta quadricornu": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Drepanosticta rhamphis": {
+    "common": "Damselfly",
+    "class": "Insecta"
+  },
+  "Trionymus summus": {
+    "common": "Apo Summit Grass Root Mealybug",
+    "class": "Insecta"
+  },
+  "Orthosaldula rubroalata": {
+    "common": "Shore Bug",
+    "class": "Insecta"
+  },
+  "Chartoscirta mayona": {
+    "common": "Mayon Shore Bug",
+    "class": "Insecta"
+  },
+  "Actias philippinica": {
+    "common": "Philippine Moon Moth",
+    "class": "Insecta"
+  },
+  "Sceliphron javanum": {
+    "common": "Handsome Yellow And Black Mud Dauber",
+    "class": "Insecta"
+  },
+  "Sceliphron fervens": {
+    "common": "Fiery Yellow And Black Mud Dauber",
+    "class": "Insecta"
+  },
+  "Chalybion magnum": {
+    "common": "Great Blue Mud-Dauber",
+    "class": "Insecta"
+  },
+  "Chalybion polyphemus": {
+    "common": "Polyphemus/Cyclops Blue Mud Dauber",
+    "class": "Insecta"
+  },
+  "Cyrtophora parangexanthematica": {
+    "common": "Tent Spider",
+    "class": "Arachnida"
+  },
+  "Eriovixia laglaizei": {
+    "common": "Laglasei'S Garden Spider",
+    "class": "Arachnida"
+  },
+  "Neoscona albertoi": {
+    "common": "Alberto'S Derby Spider ",
+    "class": "Arachnida"
+  },
+  "Neoscona aldinei": {
+    "common": "Aldine'S Derby Spider",
+    "class": "Arachnida"
+  },
+  "Neoscona ampoyae": {
+    "common": "Ampoy'S Derby Spider",
+    "class": "Arachnida"
+  },
+  "Neoscona punctigera": {
+    "common": "Common Derby Spider",
+    "class": "Arachnida"
+  },
+  "Neoscona facundoi": {
+    "common": "Facundo'S Derby Spider",
+    "class": "Arachnida"
+  },
+  "Neoscona lipana": {
+    "common": "Lipa'S Derby Spider",
+    "class": "Arachnida"
+  },
+  "Neoscona nautica": {
+    "common": "Brown Sailor Spider",
+    "class": "Arachnida"
+  },
+  "Neoscona orenmindoroana": {
+    "common": "Oriental Mindoro'S Orb-Weaver",
+    "class": "Insecta"
+  },
+  "Neoscona vigilans": {
+    "common": "Brown-Legged Spider",
+    "class": "Arachnida"
+  },
+  "Parawixia dehaani": {
+    "common": "Coomon Garden Spider",
+    "class": "Arachnida"
+  },
+  "Poltys illepidus": {
+    "common": "Tree Stump Spider",
+    "class": "Arachnida"
+  },
+  "Dinophasma maalon": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Abrosoma apterum": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Abrosoma sericeum": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Coloratobistus dilawitimpakpak": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Dallaiphasma eximius": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Diploptera minor": {
+    "common": "Small Scarab Cockroach",
+    "class": "Insecta"
+  },
+  "Diploptera punctata": {
+    "common": "Pacific Scarab Cockroach",
+    "class": "Insecta"
+  },
+  "Haanina macassariensis": {
+    "common": "Macassar Haanina",
+    "class": "Insecta"
+  },
+  "Howintoniella obscurifrons": {
+    "common": "Cockroach",
+    "class": "Insecta"
+  },
+  "Morphna  imperatoria": {
+    "common": "Imperial Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta curta": {
+    "common": "Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta ferruginosa": {
+    "common": "Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta inconspicua": {
+    "common": "Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta insueta": {
+    "common": "Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta lugubrina": {
+    "common": "Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta luzonica": {
+    "common": "Luzon Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta meticulosa": {
+    "common": "Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Panesthia angustipennis": {
+    "common": "Common Wood-Feeding Cockroach",
+    "class": "Insecta"
+  },
+  "Panesthia wallacei": {
+    "common": "Wallace'S Wood-Feeding Cockroach",
+    "class": "Insecta"
+  },
+  "Panesthia puncticollis": {
+    "common": "Philippine Wood-Feeding Cockroach",
+    "class": "Insecta"
+  },
+  "Panesthia sausurii": {
+    "common": "Saussure'S Wood-Feeding Cockroach",
+    "class": "Insecta"
+  },
+  "Panesthia mearnsi": {
+    "common": "Mearns' Wood-Feeding Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta padens": {
+    "common": "Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta plebeja": {
+    "common": "Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta puncticollis": {
+    "common": "Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta pustulata": {
+    "common": "Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta rustica": {
+    "common": "Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Rhabdoblatta vasta": {
+    "common": "Semi-Aquatic Cockroach",
+    "class": "Insecta"
+  },
+  "Pycnoscelus femapterus": {
+    "common": "Femapterous Burrowing Cockroach",
+    "class": "Insecta"
+  },
+  "Pycnoscelus nigra": {
+    "common": "Shadow Burrowing Cockroach",
+    "class": "Insecta"
+  },
+  "Pycnoscelus striatus": {
+    "common": "Ember Burrowing Cockroach",
+    "class": "Insecta"
+  },
+  "Cartoblatta rufocercata": {
+    "common": "Cockroach",
+    "class": "Insecta"
+  },
+  "Dorylaea brunneri": {
+    "common": "Brunner's Cockroach",
+    "class": "Insecta"
+  },
+  "Dorylaea flavicincta": {
+    "common": "Cockroach",
+    "class": "Insecta"
+  },
+  "Homalosilpha contraria": {
+    "common": "Silphid Cockroach",
+    "class": "Insecta"
+  },
+  "Periplaneta fictor": {
+    "common": "Cockroach",
+    "class": "Insecta"
+  },
+  "Periplaneta malaica": {
+    "common": "Malaysian Cockroach",
+    "class": "Insecta"
+  },
+  "Periplaneta nitida": {
+    "common": "Cockroach",
+    "class": "Insecta"
+  },
+  "Melanozosteria nitida": {
+    "common": "Wandering Dark Woodland Cockroach",
+    "class": "Insecta"
+  },
+  "Melanozosteria soror": {
+    "common": "Yellow-Banded Woodland Cockroach",
+    "class": "Insecta"
+  },
+  "Cochlostyla festiva": {
+    "common": "Tree Snail",
+    "class": "Gastropoda"
+  },
+  "Helicostyla rufogaster": {
+    "common": "Tree Snail",
+    "class": "Gastropoda"
+  },
+  "Helicostyla amagaensis": {
+    "common": "Tree Snail",
+    "class": "Gastropoda"
+  },
+  "Chrysochroa fulminans": {
+    "common": "Jewel Beetle",
+    "class": "Insecta"
+  },
+  "Megaloxantha bicolor": {
+    "common": "Jewel Beetle",
+    "class": "Insecta"
+  },
+  "Coraebosoma manilense": {
+    "common": "Jewel Beetle",
+    "class": "Insecta"
+  },
+  "Coraebosoma violaceum": {
+    "common": "Jewel Beetle",
+    "class": "Insecta"
+  },
+  "Coraebus hastanus": {
+    "common": "Jewel Beetle",
+    "class": "Insecta"
+  },
+  "Obenbergerula horni": {
+    "common": "Jewel Beetle",
+    "class": "Insecta"
+  },
+  "Calomera lacrymosa": {
+    "common": "Tiger Beetle",
+    "class": "Insecta"
+  },
+  "Calomera mindanaoensis": {
+    "common": "Tiger Beetle",
+    "class": "Insecta"
+  },
+  "Calomera cabigasi": {
+    "common": "Tiger Beetle",
+    "class": "Insecta"
+  },
+  "Heptodonta lumawigi": {
+    "common": "Tiger Beetle",
+    "class": "Insecta"
+  },
+  "Heptodonta melanopyga": {
+    "common": "Tiger Beetle",
+    "class": "Insecta"
+  },
+  "Lophyra striolata": {
+    "common": "Tiger Beetle",
+    "class": "Insecta"
+  },
+  "Neocollyris affinis": {
+    "common": "Tiger Beetle",
+    "class": "Insecta"
+  },
+  "Neocollyris angularis": {
+    "common": "Tiger Beetle",
+    "class": "Insecta"
+  },
+  "Neocollyris emarginata": {
+    "common": "Tiger Beetle",
+    "class": "Insecta"
+  },
+  "Therates coracinus": {
+    "common": "Tiger Beetle",
+    "class": "Insecta"
+  },
+  "Tricondyla conicicollis": {
+    "common": "Tiger Beetle",
+    "class": "Insecta"
+  },
+  "Tricondyla cyanipes": {
+    "common": "Tiger Beetle",
+    "class": "Insecta"
+  },
+  "Elacomia collaris": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Heffernia filipina": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Leptostrangalia angustolineata": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Metalloleptura prasina": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Toxeutes negrosianus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Megobaralipton mindanaonis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Ziglipton sanchezi": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Ziglipton lumawigi": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Aeolesthes induta": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Aeolesthes fulgens": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Ambis manillarum": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Aphrodisium panayarum": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Aphrodisium semiignitum": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Centrotoclytus helleri": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Ceresium flavipes": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Ceresium zeylanicum": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Chloridolum accensum": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Chlorophorus annularis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Chlorophorus aurivillii": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Chlorophorus basilanus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Chlorophorus manillae": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Cleomenes dihammaphoroides": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Clytellus benguetanus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Coptocercus 14- signatus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Cristophanes filipinus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Demonax algebraicus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Demonax angusticollis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Demonax collaris": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Demonax coriaceocollis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Demonax diversofasciatus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Demonax includens": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Demonax protogenes": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Demonax similis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Demonax triaculeatus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Demonax trifasciatus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Demonax triguttatus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Demonax virescens": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Dere philippinensis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Dialeges egenus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Dialeges pauper": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Dymasius ysmaeli": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Elongatomerionoeda filipina": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Epipedocera cabigasiana": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Epipedocera lunata": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Euryclelia cardinalis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Euryphagus pictus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Examnes mindanaonis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Examnes philippinensis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Hoplocermbyx spinicornis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Ipothalia similis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Lachnoptera auripennis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Lachnoptera socius": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Nidella stanleyana": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Oligoenophus luzonicus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Paraskeletodes gracilis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Perissus scutellatus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Podanychroma monticola": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Polyzonus bentanaschi": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Polyzonus schmidti": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Prothema leucaspis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Psilomerus brachialis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Raphuma conformis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Raphuma quadricolor": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Salpinia obliqua": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Schmidtiana gertrudis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Schmidtiana legrandia": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Schmidtiana palawana": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Sclethrus amoenus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Sclethrus newmani": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Stenodryas filipinus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Trirachys acanthophorus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Trirachys gloriosus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Xylotrechus australis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Xylotrechus phidias": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Xylotrechus pulcher": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Xystrocera globosa": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Acalolepta antenor": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Agnia casta": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Agnia pulchra": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Anoplophora lucipor": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Anoplophora asuanga": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Blepephaeus mindanaonis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Blepephaeus higaononi": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Cereopsius arbiter": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Cereopsius cabigasi": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Cereopsius luctor": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Cereopsius praetorius": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Cereopsius vivesi": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Dolichoprosoplus philippinensis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Doliops ageometrica": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Doliops balalaikinsi": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Doliops curculionoides": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Doliops daugavpilsi": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Doliops edithae": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Doliops huruki": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Doliops jirouxi": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Doliops kivlenieceae": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Doliops multifasciata": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Doliops serapavginae": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Doliops tamitusi": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Glenea beatrix": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Nemophas ramosai": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Paradoliops cabigasi": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Paranhammus marcipor": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Pelargoderus alcanor": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Pericyos philippinensis": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Pseudodoliops ilocanus": {
+    "common": "Longhorn Beetle",
+    "class": "Insecta"
+  },
+  "Cosmoscarta lateralis": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Cosmoscarta consociata": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Cosmoscarta nigroguttata": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Cosmoscarta semimaculata": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Cosmoscarta sexmaculata": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Cosmoscarta sulukensis": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Cosmoscarta whiteheadi": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Ectemnonotum luzonensis": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Gynopygoplax bicolor": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Gynopygoplax daphne": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Gynopygoplax inclusa": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Gynopygoplax inclusiformis": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Gynopygoplax luzonensis": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Gynopygoplax meyeri": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Gynopygoplax mounseyi": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Gynopygoplax proserpina": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Gynopygoplax proserpinella": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Gynopygoplax theora": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Gynopygoplax walkeri": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Homalostethus dirce": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Homalostethus sangaris": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Homalostethus spectabilis": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Leptataspis bukidnona": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Leptataspis butuanensis": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Leptataspis insularis": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Leptataspis palawana": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Leptataspis philippinensis": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Leptataspis proserpinopsis": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Leptataspis rotundata": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Leptataspis rufipes": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Opistharsostethus calypso": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Oxymegaspis izzardi": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Oxymegaspis schultzei": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Paratrichoscarta carinata": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Phymatostetha cincta": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Phymatostetha perspicillaris": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Suracarta torquata": {
+    "common": "Spittle Bug",
+    "class": "Insecta"
+  },
+  "Asceles icaris": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Asceles mancinus": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Asceles nigrogranosus": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Asceles rulanda": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Asceles scabra": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Diangelus helleri": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Lopaphus muticus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Loxopsis sarmientoi": {
+    "common": "Sarmiento'S Cone-Headed Stick Insect",
+    "class": "Gastropoda"
+  },
+  "Loxopsis tboli": {
+    "common": "Tboli Cone-Headed Stick Insect",
+    "class": "Gastropoda"
+  },
+  "Loxopsis waray": {
+    "common": "Samar Coned Head Stick Insect",
+    "class": "Gastropoda"
+  },
+  "Marmessoidea flavoguttata": {
+    "common": "Spotted Winged Stick ",
+    "class": "Insecta"
+  },
+  "Marmessoidea mustea": {
+    "common": "Spotted Winged Stick ",
+    "class": "Insecta"
+  },
+  "Necroscia ceres": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Necroscia conspersa": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Necroscia eucerca": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Necroscia fasciolata": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Necroscia fatua": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Necroscia maculiceps": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Necroscia munda": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Necroscia nigrofasciata": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Necroscia philippina": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Necroscia stali": {
+    "common": "Stal'S Winged Stick ",
+    "class": "Insecta"
+  },
+  "Necroscia thisbe": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Necroscia virens": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Neoclides echinatus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Neoclides heitzmannii": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Orthonecroscia longicornis": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Orxines granulosus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Orxines semperi": {
+    "common": "Semper'S Stick Insect",
+    "class": "Insecta"
+  },
+  "Rhamphosipyloidea berenice": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Rhamphosipyloidea brevipennis": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Rhamphosipyloidea calliope": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Rhamphosipyloidea gorkomi": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Rhamphosipyloidea longithorax": {
+    "common": "Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Scionecra conspicua": {
+    "common": "Scionecra Stick-Insect",
+    "class": "Insecta"
+  },
+  "Scionecra refractaria": {
+    "common": "Scionecra Stick-Insect",
+    "class": "Insecta"
+  },
+  "Scionecra salmanazar": {
+    "common": "Scionecra Stick-Insect",
+    "class": "Insecta"
+  },
+  "Scionecra truncata": {
+    "common": "Scionecra Stick-Insect",
+    "class": "Insecta"
+  },
+  "Sipyloidea acanthonota": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Sipyloidea eurynome": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Sipyloidea morio": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Sipyloidea tristis": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Planososibia parvipennis": {
+    "common": "Winged Stick ",
+    "class": "Insecta"
+  },
+  "Thrasyllus macilentus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Masteria caeca": {
+    "common": "Eyeless Curtain Web Spider",
+    "class": "Arachnida"
+  },
+  "Masteria cavicola": {
+    "common": "Six-Eyed Spider",
+    "class": "Arachnida"
+  },
+  "Nisibis amoena": {
+    "common": "Cockroach",
+    "class": "Insecta"
+  },
+  "Hemithyrsocera tawitawiensis": {
+    "common": "Tawi-Tawi Litter Cockroach",
+    "class": "Insecta"
+  },
+  "Lobopterella demidiatipes": {
+    "common": "Lobe-Winged Cockroach",
+    "class": "Insecta"
+  },
+  "Pseudothyrsocera circumcincta": {
+    "common": "Cockroach",
+    "class": "Insecta"
+  },
+  "Pseudothyrsocera circumclusa": {
+    "common": "Cockroach",
+    "class": "Insecta"
+  },
+  "Pseudothyrsocera lugubris": {
+    "common": "Cockroach",
+    "class": "Insecta"
+  },
+  "Pseudothyrsocera rufiventris": {
+    "common": "Cockroach",
+    "class": "Insecta"
+  },
+  "Pseudothyrsocera signata": {
+    "common": "Cockroach",
+    "class": "Insecta"
+  },
+  "Pachnepteryx pallidicollis": {
+    "common": "Psychedelic Cockroach",
+    "class": "Insecta"
+  },
+  "Pachnepteryx pruinosa": {
+    "common": "Psychedelic Cockroach",
+    "class": "Insecta"
+  },
+  "Lemyra barliga": {
+    "common": "North Luzon Lemyra",
+    "class": "Insecta"
+  },
+  "Lemyra philippinica": {
+    "common": "Philippine Lemyra",
+    "class": "Insecta"
+  },
+  "Lemyra praetexta": {
+    "common": "Palawan Lemyra",
+    "class": "Insecta"
+  },
+  "Aretaon asperrimus": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Ilocano hebardi": {
+    "common": "Hebard'S Stick Insect",
+    "class": "Insecta"
+  },
+  "Stenobrimus bolivari": {
+    "common": "Bolivar'S Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Stenobrimus lumad": {
+    "common": "Lumad'S Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Stenobrimus tagalog": {
+    "common": "Tagalog Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Theramenes exiguus": {
+    "common": "Short Theramenes Stick Insect",
+    "class": "Insecta"
+  },
+  "Theramenes mandirigma": {
+    "common": "Survivor Theramenes Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus alviolanus": {
+    "common": "Alviola'S Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus armadillo": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus asper": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus atropos": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus cervicornis": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus clotho": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus deplanatus": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus draconinus": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus hystrix": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus lachesis": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus polillo": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus ranarius": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus serratorius": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus spadix": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Tisamenus tagalog": {
+    "common": "Triangular Back Stick Insect",
+    "class": "Insecta"
+  },
+  "Mearnsiana bullosa": {
+    "common": "Mount Apo Stout Stick Insect",
+    "class": "Insecta"
+  },
+  "Brasidas acanthoderus": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Brasidas foveolatus": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Brasidas montivagus": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Brasidas quadtratipes": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Brasidas samarensis": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Brasidas viscayanus": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Euobrimus atherura": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Euobrimus bakeri": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Euobrimus cavernosus": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Euobrimus cleggi": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Euobrimus dohrni": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Euobrimus hoplites": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Euobrimus lacerta": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Euobrimus stephenreyesi": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Obrimus bufo": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Obrimus bicolanus": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Obrimus mesoplatus": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Obrimus uichancoi": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Sungaya inexpectata": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Trachyaretaon carmelae": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Trachyaretaon echinatus": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Trachyaretaon gatla": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Dares philippinensis": {
+    "common": "Spiny Stick Insect",
+    "class": "Insecta"
+  },
+  "Aegus insolitus": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Aegus philippinensis": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Cyclommatus alagari": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Cyclommatus zuberi": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Gnaphaloryx horridus": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Prosoocoilus buddha": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Prosopocoilus dorsalis": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Prosopocoilus lateralis": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Prosopocoilus lumawigi": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Prosopocoilus occipitalis": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Prosopocoilus romeoi": {
+    "common": "Stag Beetle",
+    "class": "Insecta"
+  },
+  "Logania waltraudae": {
+    "common": "Logania Butterfly",
+    "class": "Insecta"
+  },
+  "Drosicha benguetensis": {
+    "common": "Benguet Giant Scale",
+    "class": "Insecta"
+  },
+  "Eubulides alutaceus": {
+    "common": "Hook-Tailed Stick Insect",
+    "class": "Insecta"
+  },
+  "Eubulides igorrote": {
+    "common": "Hook-Tailed Stick Insect",
+    "class": "Insecta"
+  },
+  "Eubulides taylori": {
+    "common": "Hook-Tailed Stick Insect",
+    "class": "Insecta"
+  },
+  "Entoria denticornis": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Ramulus philippinicus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Ramulus rusticus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Pharnacia kalag": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Pharnacia magdiwang": {
+    "common": "Sibuyan Large Stick Insect",
+    "class": "Insecta"
+  },
+  "Pharnacia palawanica": {
+    "common": "Palawan Large Stick Insect",
+    "class": "Insecta"
+  },
+  "Pharnacia ponderosa": {
+    "common": "Luzon Large Stick Insect",
+    "class": "Insecta"
+  },
+  "Phobaeticus lumawigi": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Phobaeticus palawanensis": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Phobaeticus philippinicus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Lonchodes dalawangsungay": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Lonchodes philippinicus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Lonchodiodes atrovirens": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Lonchodiodes babuyanensis": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Lonchodiodes eurycanthoides": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Lonchodiodes grandis": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Lonchodiodes putingmantsa": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Lonchodiodes samarensis": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Lonchodiodes tagalicus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Lonchodiodes trollius": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Manduria halconensis": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Manduria systropedon": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Matutumetes amoenus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Matutumetes mindanaensis": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Mithrenes mindorensis": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Mithrenes panayensis": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Mithrenes whiteheadi": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Mnesilochus capreolus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Mnesilochus haedulus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Mnesilochus jenswilhelmjanzeni": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Mnesilochus mindanaensis": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Mnesilochus palawanicus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Periphetes graniferum": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Periphetes magayon": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Periphetes quezonicus": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Spinophetes spinotergum": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Eucarcharus fallax": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Eucarcharus feruloides": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Hermarchus leytensis": {
+    "common": "Stick Insect",
+    "class": "Insecta"
+  },
+  "Megacrania alpheus": {
+    "common": "Big-Headed Stick Insect",
+    "class": "Insecta"
+  },
+  "Ophicrania conlei": {
+    "common": "Snakehead Stick Insect",
+    "class": "Insecta"
+  },
+  "Ophicrania nigricornis": {
+    "common": "Snakehead Stick Insect",
+    "class": "Insecta"
+  },
+  "Ophicrania nigroplagiata": {
+    "common": "Snakehead Stick Insect",
+    "class": "Insecta"
+  },
+  "Ophicrania nigrotaeniata": {
+    "common": "Snakehead Stick Insect",
+    "class": "Insecta"
+  },
+  "Ophicrania palinurus": {
+    "common": "Snakehead Stick Insect",
+    "class": "Insecta"
+  },
+  "Ophicrania sagittarius": {
+    "common": "Snakehead Stick Insect",
+    "class": "Insecta"
+  },
+  "Ophicrania stygius": {
+    "common": "Snakehead Stick Insect",
+    "class": "Insecta"
+  },
+  "Ophicrania viridinervis": {
+    "common": "Snakehead Stick Insect",
+    "class": "Insecta"
+  },
+  "Ophicrania vittipennis": {
+    "common": "Snakehead Stick Insect",
+    "class": "Insecta"
+  },
+  "Homopteroidea maculata": {
+    "common": "Maculate Bug-Like Cockroach",
+    "class": "Insecta"
+  },
+  "Tivia senex": {
+    "common": "Elusive Cockroach",
+    "class": "Insecta"
+  },
+  "Ergaula carunculigera": {
+    "common": "Beetle-Mimic Cockroach",
+    "class": "Insecta"
+  },
+  "Holocompsa debilis": {
+    "common": "Elusive Cockroach",
+    "class": "Insecta"
+  },
+  "Korinnis gracilis": {
+    "common": "Slim-Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Korinnis orlyeusebioi": {
+    "common": "Orly'S Winged Stick Insect",
+    "class": "Insecta"
+  },
+  "Trionymus apoensis": {
+    "common": "Mount Apo Grass Mealybug",
+    "class": "Insecta"
+  },
+  "Actias selene": {
+    "common": "Indian Luna Moth",
+    "class": "Insecta"
+  },
+  "Chalcosoma atlas": {
+    "common": "Atlas Beetle",
+    "class": "Insecta"
+  },
+  "Dipelicus deiphobus": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Euchirus dupontianus": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Neophyphus philippinus": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Papuana philippinica": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Xylotrupes gideon": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Xylotrupes pubescens": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Agestrata luzonica": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Agestrata semperi": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Dasyvalgus biplagiatus": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Dicheros bicornis": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Euglypta boudanti": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Euglypta margaritacea": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Euglypta miksici": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Euselates stictica": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Glycosia bakeri": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Glycyphana cuculus": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Glycyphana rubromarginata": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Glycyphana vernalis": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Heterrhina macleayi": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Ixorida mindanaensis": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Ixorida vidua": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Ixorida philippinensis": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Phaedimus howdeni": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Phaedimus lumawigi": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Phaedimus mohnikei": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Plectone endroedii": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Plectone negricola": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Taeniodera abdominalis": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Taeniodera jucunda": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Taeniodera tricolor": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Theodosia rodriguezi": {
+    "common": "Scarab Beetle",
+    "class": "Insecta"
+  },
+  "Sceliphron rufopictum": {
+    "common": "Common Forest Yellow And Black Mud Dauber",
+    "class": "Insecta"
+  },
+  "Chalybion vechti": {
+    "common": "Lesser Blue Mud Dauber",
+    "class": "Insecta"
+  },
+  "Orphnaecus kwebaburdeos": {
+    "common": "Burdeos Cave Tarantula",
+    "class": "Arachnida"
+  },
+  "Orphnaecus pellitus": {
+    "common": "Red-Brown Cave Tarantula",
+    "class": "Arachnida"
+  },
+  "Orphnaecus philippinus": {
+    "common": "Cave Tarantula",
+    "class": "Arachnida"
+  },
+  "Phlogiellus baeri": {
+    "common": "Philippine Dwarf Tarantula",
+    "class": "Arachnida"
+  },
+  "Phlogiellus bundokalbo": {
+    "common": "Siniloan Theraphosid",
+    "class": "Insecta"
+  },
+  "Phlogiellus johnreylazoi": {
+    "common": "John Rey'S Theraphosid Spider",
+    "class": "Arachnida"
+  },
+  "Phlogiellus mutus": {
+    "common": "Black Tarantula",
+    "class": "Arachnida"
+  },
+  "Selenocosmia peerboomi": {
+    "common": "Peerboom'S Theraphosid Spider",
+    "class": "Arachnida"
+  },
+  "Selenocosmia samarae": {
+    "common": "Samar Cave Tarantula",
+    "class": "Arachnida"
+  }
+}
