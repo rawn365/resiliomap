@@ -12,6 +12,8 @@ import io
 import time
 from datetime import datetime
 from pathlib import Path
+import os
+import gdown
 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
@@ -53,6 +55,48 @@ except ImportError:
 # Hardcoded credentials for simple login
 VALID_USERNAME = "admin"
 VALID_PASSWORD = "resilio2026"
+
+
+GDRIVE_RASTERS = {
+    "BIO1.tif": "1JI9YOhfPOvwsiOAl4-NxIcD-YwnVFhxU",
+    "BIO4.tif": "1iMWis0ZH_4RHmmp-et3aVkwnlncaKuWq",
+    "BIO12.tif": "1o2Tb8qUXZdyGnGLbV63Adlz_ps-gDqnr",
+    "BIO14.tif": "1sqqqVzBrnvyxVSJF-GgFSyGGCyWW6Z2W",
+    "BIO15.tif": "1d9gHPeL17iz7pIBtCe6j-uSH8vZmtkhn",
+
+    "future/BIO1_ssp245.tif": "1B3NtQ7QIVSditVJXKsjE_iBm8bddwB3B",
+    "future/BIO1_ssp585.tif": "15vy_pA4O70mWT4yhJNjYHS87ZSLPoqGt",
+
+    "future/BIO4_ssp245.tif": "1D2YiSshaTO9m5RDElal7uAbxB4PaOYS-",
+    "future/BIO4_ssp585.tif": "1_nWCqMLn1MiEeXrLzhWUDMODYsV5LMPc",
+
+    "future/BIO12_ssp245.tif": "1MgrQxUQl33pg8hcfEbrx1NVqmFDjGcSC",
+    "future/BIO12_ssp585.tif": "1aWr48GMPlPTWY-VgOP-giPWLP8D5sS92",
+
+    "future/BIO14_ssp245.tif": "11Jb27JQwR0YzQuAOqRYp2rzC5Kq26JPd",
+    "future/BIO14_ssp585.tif": "1aUhHTYr-1cfmt_iyMZZPVvBjnZaHAvWU",
+
+    "future/BIO15_ssp245.tif": "1ls_ErI3UdJR11vDIexmqYduhqhVoHlZH",
+    "future/BIO15_ssp585.tif": "1j4-WHPjVGH3Ch70lbxc6ndo51YdJGFLO",
+}
+
+
+def ensure_rasters():
+    base_dir = "data/bioclim"
+
+    for rel_path, file_id in GDRIVE_RASTERS.items():
+        local_path = os.path.join(base_dir, rel_path)
+
+        if not os.path.exists(local_path):
+            os.makedirs(os.path.dirname(local_path), exist_ok=True)
+
+            url = f"https://drive.google.com/uc?id={file_id}"
+
+            with st.spinner(f"Downloading {rel_path}..."):
+                gdown.download(url, local_path, quiet=False)
+
+ensure_rasters()
+
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
