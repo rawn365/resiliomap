@@ -2251,7 +2251,17 @@ elif st.session_state.page == 'analysis':
                 X, y = build_feature_matrix(sp_label, thin_km=None)
             prog.progress(33, text="Training predictive models…")
             time.sleep(0.7)
-            results = train_models(X, y)
+
+            safe_key = sp_label.replace(" ", "_").replace("/", "_")
+            model_path = f"data/models/{safe_key}_models.joblib"
+
+            if os.path.exists(model_path):
+                results = joblib.load(model_path)
+            else:
+                results = train_models(X, y)
+
+                os.makedirs("data/models", exist_ok=True)
+                joblib.dump(results, model_path)
             st.session_state.model_results[sp_label] = results
             prog.progress(100, text="Analysis complete")
         st.success(f"Habitat analysis complete — Model confidence: {results['ensemble']['auc']:.1%}")
@@ -2361,6 +2371,8 @@ elif st.session_state.page == 'dashboard':
         if sp_key not in st.session_state.model_results:
             with st.spinner(f"Training models for {sp_key}…"):
 
+                st.write("TRAINING BLOCK ENTERED")
+
                 thin_enabled = st.checkbox("Apply spatial thinning (5 km grid)", value=False)
 
                 if thin_enabled:
@@ -2368,7 +2380,8 @@ elif st.session_state.page == 'dashboard':
                 else:
                     X, y = build_feature_matrix(sp_key, thin_km=None)
 
-                model_path = f"data/models/{sp_key}_models.joblib"
+                safe_key = sp_key.replace(" ", "_").replace("/", "_")
+                model_path = f"data/models/{safe_key}_models.joblib"
 
                 if os.path.exists(model_path):
                     results = joblib.load(model_path)
