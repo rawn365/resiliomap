@@ -486,7 +486,7 @@ def init_db():
     data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
     os.makedirs(data_dir, exist_ok=True)
     db_path = os.path.join(data_dir, 'species_occurrences.db')
-    conn = sqlite3.connect(db_path, check_same_thread=False)
+    conn = sqlite3.connect(db_path, check_same_thread=False, timeout=30)
     cursor = conn.cursor()
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS species_occurrences (
