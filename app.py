@@ -12,8 +12,9 @@ import io
 import time
 from datetime import datetime
 from pathlib import Path
-import os
 import gdown
+import joblib
+
 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
@@ -2359,12 +2360,24 @@ elif st.session_state.page == 'dashboard':
         sp_key = st.session_state.dash_sp_key
         if sp_key not in st.session_state.model_results:
             with st.spinner(f"Training models for {sp_key}…"):
+
                 thin_enabled = st.checkbox("Apply spatial thinning (5 km grid)", value=False)
+
                 if thin_enabled:
                     X, y = build_feature_matrix(sp_key, thin_km=5)
                 else:
                     X, y = build_feature_matrix(sp_key, thin_km=None)
-                results = train_models(X, y)
+
+                model_path = f"data/models/{sp_key}_models.joblib"
+
+                if os.path.exists(model_path):
+                    results = joblib.load(model_path)
+                else:
+                    results = train_models(X, y)
+
+                    os.makedirs("data/models", exist_ok=True)
+                    joblib.dump(results, model_path)
+
                 st.session_state.model_results[sp_key] = results
         res = st.session_state.model_results[sp_key]
         ens_auc = res['ensemble']['auc']
