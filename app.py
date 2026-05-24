@@ -1129,17 +1129,21 @@ def build_refugia_map(species_key: str, sc_key: str) -> folium.Map:
     )
 
     # Thin occurrence points first
+    # Keep more occurrence structure
     try:
         seed_coords = spatial_thinning(
             coords,
-            cell_size_km=15
+            cell_size_km=5
         )
     except Exception:
         seed_coords = coords
 
-    points_per_seed = 2
-    jitter_deg = 0.08
-    max_nearest_km = 30
+    # Generate denser ecological clouds
+    points_per_seed = 12
+
+    # Wider ecological spread
+    jitter_deg = 0.18
+    max_nearest_km = 120
 
     point_data = []
 
@@ -1193,7 +1197,7 @@ def build_refugia_map(species_key: str, sc_key: str) -> folium.Map:
             )
 
             # Skip extremely unsuitable areas
-            if cur_suit < 0.30 and fut_suit < 0.30:
+            if cur_suit < 0.10 and fut_suit < 0.10:
                 continue
 
             point_data.append({
@@ -2370,9 +2374,6 @@ elif st.session_state.page == 'dashboard':
         sp_key = st.session_state.dash_sp_key
         if sp_key not in st.session_state.model_results:
             with st.spinner(f"Training models for {sp_key}…"):
-
-                st.write("TRAINING BLOCK ENTERED")
-
                 thin_enabled = st.checkbox("Apply spatial thinning (5 km grid)", value=False)
 
                 if thin_enabled:
