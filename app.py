@@ -382,10 +382,7 @@ if not st.session_state.authenticated:
     </style>
 
     <div class="login-header">
-        <h1>
-            <span style="color:black;">Resilio</span>
-            <span style="color:#2d6a4f;">&#8209;Map</span>
-        </h1>
+        <h1><span style="color:black;">Resilio</span><span style="color:#2d6a4f;">&#8209;Map</span></h1>
         <p class="sub">Climate Refugia Decision Support System</p>
     </div>
     """, unsafe_allow_html=True)
