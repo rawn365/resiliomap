@@ -5,3 +5,4 @@ __pycache__/
 
 data/bioclim/
 data/bioclim_backup/
+.streamlit/credentials.toml
